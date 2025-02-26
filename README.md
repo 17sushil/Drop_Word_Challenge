@@ -1,14 +1,14 @@
 ###**Drop_Word_Challenge**###
 
 
-!!! Lets boost typing speed together !!!
+!!! Let's boost typing speed together !!!
 
 **Typing Game 🎮⌨️:**
 A fun and interactive typing game built using Flask, JavaScript (Canvas API), and Bootstrap. The game challenges players to type falling words before they hit the bottom of the screen.
 
 **Features:**
 
-✅ Three difficulty levels: Easy, Medium and Hard
+✅ Three difficulty levels: Easy, Medium, and Hard
 
 ✅ Real-time word falling animation
 
@@ -30,6 +30,6 @@ A fun and interactive typing game built using Flask, JavaScript (Canvas API), an
 
 **Prerequisites:**
 
-Python 3
+-Python 3
 
-Flask
+-Flask
